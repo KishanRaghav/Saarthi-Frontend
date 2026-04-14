@@ -7,7 +7,6 @@ import {
 import { motion } from "framer-motion";
 import AuthContainer from "./Components/SignIn";
 
-import Chatbot from "./Components/Chatbot/Chatbot";
 import UserDashboard from "./Components/UserDashboard/user";
 import Booking from "./Components/UserDashboard/Booking";
 import Success from "./Components/UserDashboard/Success";
